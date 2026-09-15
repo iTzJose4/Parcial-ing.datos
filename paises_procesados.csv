@@ -1,0 +1,501 @@
+country_name,region,subregion,capital_city,population,area,population_density
+Country_000,Europe,Western Europe,Capital_000,1000000,10000,100.0
+Country_001,Americas,North America,Capital_001,1010000,10500,96.19
+Country_002,Asia,Southeast Asia,Capital_002,1020000,11000,92.73
+Country_003,Africa,Eastern Africa,Capital_003,1030000,11500,89.57
+Country_004,Oceania,Australia and New Zealand,Capital_004,1040000,12000,86.67
+Country_005,Europe,Eastern Europe,Capital_005,1050000,12500,84.0
+Country_006,Americas,Central America,Capital_006,1060000,13000,81.54
+Country_007,Asia,Southeast Asia,Capital_007,1070000,13500,79.26
+Country_008,Africa,Eastern Africa,Capital_008,1080000,14000,77.14
+Country_009,Oceania,Melanesia,Capital_009,1090000,14500,75.17
+Country_010,Europe,Northern Europe,Capital_010,1100000,15000,73.33
+Country_011,Americas,Caribbean,Capital_011,1110000,15500,71.61
+Country_012,Asia,Southeast Asia,Capital_012,1120000,16000,70.0
+Country_013,Africa,Eastern Africa,Capital_013,1130000,16500,68.48
+Country_014,Oceania,Micronesia,Capital_014,1140000,17000,67.06
+Country_015,Europe,Southern Europe,Capital_015,1150000,17500,65.71
+Country_016,Americas,South America,Capital_016,1160000,18000,64.44
+Country_017,Asia,Southeast Asia,Capital_017,1170000,18500,63.24
+Country_018,Africa,Eastern Africa,Capital_018,1180000,19000,62.11
+Country_019,Oceania,Polynesia,Capital_019,1190000,19500,61.03
+Country_020,Europe,Western Europe,Capital_020,1200000,20000,60.0
+Country_021,Americas,North America,Capital_021,1210000,20500,59.02
+Country_022,Asia,Southeast Asia,Capital_022,1220000,21000,58.1
+Country_023,Africa,Eastern Africa,Capital_023,1230000,21500,57.21
+Country_024,Oceania,Australia and New Zealand,Capital_024,1240000,22000,56.36
+Country_025,Europe,Eastern Europe,Capital_025,1250000,22500,55.56
+Country_026,Americas,Central America,Capital_026,1260000,23000,54.78
+Country_027,Asia,Southeast Asia,Capital_027,1270000,23500,54.04
+Country_028,Africa,Eastern Africa,Capital_028,1280000,24000,53.33
+Country_029,Oceania,Melanesia,Capital_029,1290000,24500,52.65
+Country_030,Europe,Northern Europe,Capital_030,1300000,25000,52.0
+Country_031,Americas,Caribbean,Capital_031,1310000,25500,51.37
+Country_032,Asia,Southeast Asia,Capital_032,1320000,26000,50.77
+Country_033,Africa,Eastern Africa,Capital_033,1330000,26500,50.19
+Country_034,Oceania,Micronesia,Capital_034,1340000,27000,49.63
+Country_035,Europe,Southern Europe,Capital_035,1350000,27500,49.09
+Country_036,Americas,South America,Capital_036,1360000,28000,48.57
+Country_037,Asia,Southeast Asia,Capital_037,1370000,28500,48.07
+Country_038,Africa,Eastern Africa,Capital_038,1380000,29000,47.59
+Country_039,Oceania,Polynesia,Capital_039,1390000,29500,47.12
+Country_040,Europe,Western Europe,Capital_040,1400000,30000,46.67
+Country_041,Americas,North America,Capital_041,1410000,30500,46.23
+Country_042,Asia,Southeast Asia,Capital_042,1420000,31000,45.81
+Country_043,Africa,Eastern Africa,Capital_043,1430000,31500,45.4
+Country_044,Oceania,Australia and New Zealand,Capital_044,1440000,32000,45.0
+Country_045,Europe,Eastern Europe,Capital_045,1450000,32500,44.62
+Country_046,Americas,Central America,Capital_046,1460000,33000,44.24
+Country_047,Asia,Southeast Asia,Capital_047,1470000,33500,43.88
+Country_048,Africa,Eastern Africa,Capital_048,1480000,34000,43.53
+Country_049,Oceania,Melanesia,Capital_049,1490000,34500,43.19
+Country_050,Europe,Northern Europe,Capital_050,1500000,35000,42.86
+Country_051,Americas,Caribbean,Capital_051,1510000,35500,42.54
+Country_052,Asia,Southeast Asia,Capital_052,1520000,36000,42.22
+Country_053,Africa,Eastern Africa,Capital_053,1530000,36500,41.92
+Country_054,Oceania,Micronesia,Capital_054,1540000,37000,41.62
+Country_055,Europe,Southern Europe,Capital_055,1550000,37500,41.33
+Country_056,Americas,South America,Capital_056,1560000,38000,41.05
+Country_057,Asia,Southeast Asia,Capital_057,1570000,38500,40.78
+Country_058,Africa,Eastern Africa,Capital_058,1580000,39000,40.51
+Country_059,Oceania,Polynesia,Capital_059,1590000,39500,40.25
+Country_060,Europe,Western Europe,Capital_060,1600000,40000,40.0
+Country_061,Americas,North America,Capital_061,1610000,40500,39.75
+Country_062,Asia,Southeast Asia,Capital_062,1620000,41000,39.51
+Country_063,Africa,Eastern Africa,Capital_063,1630000,41500,39.28
+Country_064,Oceania,Australia and New Zealand,Capital_064,1640000,42000,39.05
+Country_065,Europe,Eastern Europe,Capital_065,1650000,42500,38.82
+Country_066,Americas,Central America,Capital_066,1660000,43000,38.6
+Country_067,Asia,Southeast Asia,Capital_067,1670000,43500,38.39
+Country_068,Africa,Eastern Africa,Capital_068,1680000,44000,38.18
+Country_069,Oceania,Melanesia,Capital_069,1690000,44500,37.98
+Country_070,Europe,Northern Europe,Capital_070,1700000,45000,37.78
+Country_071,Americas,Caribbean,Capital_071,1710000,45500,37.58
+Country_072,Asia,Southeast Asia,Capital_072,1720000,46000,37.39
+Country_073,Africa,Eastern Africa,Capital_073,1730000,46500,37.2
+Country_074,Oceania,Micronesia,Capital_074,1740000,47000,37.02
+Country_075,Europe,Southern Europe,Capital_075,1750000,47500,36.84
+Country_076,Americas,South America,Capital_076,1760000,48000,36.67
+Country_077,Asia,Southeast Asia,Capital_077,1770000,48500,36.49
+Country_078,Africa,Eastern Africa,Capital_078,1780000,49000,36.33
+Country_079,Oceania,Polynesia,Capital_079,1790000,49500,36.16
+Country_080,Europe,Western Europe,Capital_080,1800000,50000,36.0
+Country_081,Americas,North America,Capital_081,1810000,50500,35.84
+Country_082,Asia,Southeast Asia,Capital_082,1820000,51000,35.69
+Country_083,Africa,Eastern Africa,Capital_083,1830000,51500,35.53
+Country_084,Oceania,Australia and New Zealand,Capital_084,1840000,52000,35.38
+Country_085,Europe,Eastern Europe,Capital_085,1850000,52500,35.24
+Country_086,Americas,Central America,Capital_086,1860000,53000,35.09
+Country_087,Asia,Southeast Asia,Capital_087,1870000,53500,34.95
+Country_088,Africa,Eastern Africa,Capital_088,1880000,54000,34.81
+Country_089,Oceania,Melanesia,Capital_089,1890000,54500,34.68
+Country_090,Europe,Northern Europe,Capital_090,1900000,55000,34.55
+Country_091,Americas,Caribbean,Capital_091,1910000,55500,34.41
+Country_092,Asia,Southeast Asia,Capital_092,1920000,56000,34.29
+Country_093,Africa,Eastern Africa,Capital_093,1930000,56500,34.16
+Country_094,Oceania,Micronesia,Capital_094,1940000,57000,34.04
+Country_095,Europe,Southern Europe,Capital_095,1950000,57500,33.91
+Country_096,Americas,South America,Capital_096,1960000,58000,33.79
+Country_097,Asia,Southeast Asia,Capital_097,1970000,58500,33.68
+Country_098,Africa,Eastern Africa,Capital_098,1980000,59000,33.56
+Country_099,Oceania,Polynesia,Capital_099,1990000,59500,33.45
+Country_100,Europe,Western Europe,Capital_100,2000000,60000,33.33
+Country_101,Americas,North America,Capital_101,2010000,60500,33.22
+Country_102,Asia,Southeast Asia,Capital_102,2020000,61000,33.11
+Country_103,Africa,Eastern Africa,Capital_103,2030000,61500,33.01
+Country_104,Oceania,Australia and New Zealand,Capital_104,2040000,62000,32.9
+Country_105,Europe,Eastern Europe,Capital_105,2050000,62500,32.8
+Country_106,Americas,Central America,Capital_106,2060000,63000,32.7
+Country_107,Asia,Southeast Asia,Capital_107,2070000,63500,32.6
+Country_108,Africa,Eastern Africa,Capital_108,2080000,64000,32.5
+Country_109,Oceania,Melanesia,Capital_109,2090000,64500,32.4
+Country_110,Europe,Northern Europe,Capital_110,2100000,65000,32.31
+Country_111,Americas,Caribbean,Capital_111,2110000,65500,32.21
+Country_112,Asia,Southeast Asia,Capital_112,2120000,66000,32.12
+Country_113,Africa,Eastern Africa,Capital_113,2130000,66500,32.03
+Country_114,Oceania,Micronesia,Capital_114,2140000,67000,31.94
+Country_115,Europe,Southern Europe,Capital_115,2150000,67500,31.85
+Country_116,Americas,South America,Capital_116,2160000,68000,31.76
+Country_117,Asia,Southeast Asia,Capital_117,2170000,68500,31.68
+Country_118,Africa,Eastern Africa,Capital_118,2180000,69000,31.59
+Country_119,Oceania,Polynesia,Capital_119,2190000,69500,31.51
+Country_120,Europe,Western Europe,Capital_120,2200000,70000,31.43
+Country_121,Americas,North America,Capital_121,2210000,70500,31.35
+Country_122,Asia,Southeast Asia,Capital_122,2220000,71000,31.27
+Country_123,Africa,Eastern Africa,Capital_123,2230000,71500,31.19
+Country_124,Oceania,Australia and New Zealand,Capital_124,2240000,72000,31.11
+Country_125,Europe,Eastern Europe,Capital_125,2250000,72500,31.03
+Country_126,Americas,Central America,Capital_126,2260000,73000,30.96
+Country_127,Asia,Southeast Asia,Capital_127,2270000,73500,30.88
+Country_128,Africa,Eastern Africa,Capital_128,2280000,74000,30.81
+Country_129,Oceania,Melanesia,Capital_129,2290000,74500,30.74
+Country_130,Europe,Northern Europe,Capital_130,2300000,75000,30.67
+Country_131,Americas,Caribbean,Capital_131,2310000,75500,30.6
+Country_132,Asia,Southeast Asia,Capital_132,2320000,76000,30.53
+Country_133,Africa,Eastern Africa,Capital_133,2330000,76500,30.46
+Country_134,Oceania,Micronesia,Capital_134,2340000,77000,30.39
+Country_135,Europe,Southern Europe,Capital_135,2350000,77500,30.32
+Country_136,Americas,South America,Capital_136,2360000,78000,30.26
+Country_137,Asia,Southeast Asia,Capital_137,2370000,78500,30.19
+Country_138,Africa,Eastern Africa,Capital_138,2380000,79000,30.13
+Country_139,Oceania,Polynesia,Capital_139,2390000,79500,30.06
+Country_140,Europe,Western Europe,Capital_140,2400000,80000,30.0
+Country_141,Americas,North America,Capital_141,2410000,80500,29.94
+Country_142,Asia,Southeast Asia,Capital_142,2420000,81000,29.88
+Country_143,Africa,Eastern Africa,Capital_143,2430000,81500,29.82
+Country_144,Oceania,Australia and New Zealand,Capital_144,2440000,82000,29.76
+Country_145,Europe,Eastern Europe,Capital_145,2450000,82500,29.7
+Country_146,Americas,Central America,Capital_146,2460000,83000,29.64
+Country_147,Asia,Southeast Asia,Capital_147,2470000,83500,29.58
+Country_148,Africa,Eastern Africa,Capital_148,2480000,84000,29.52
+Country_149,Oceania,Melanesia,Capital_149,2490000,84500,29.47
+Country_150,Europe,Northern Europe,Capital_150,2500000,85000,29.41
+Country_151,Americas,Caribbean,Capital_151,2510000,85500,29.36
+Country_152,Asia,Southeast Asia,Capital_152,2520000,86000,29.3
+Country_153,Africa,Eastern Africa,Capital_153,2530000,86500,29.25
+Country_154,Oceania,Micronesia,Capital_154,2540000,87000,29.2
+Country_155,Europe,Southern Europe,Capital_155,2550000,87500,29.14
+Country_156,Americas,South America,Capital_156,2560000,88000,29.09
+Country_157,Asia,Southeast Asia,Capital_157,2570000,88500,29.04
+Country_158,Africa,Eastern Africa,Capital_158,2580000,89000,28.99
+Country_159,Oceania,Polynesia,Capital_159,2590000,89500,28.94
+Country_160,Europe,Western Europe,Capital_160,2600000,90000,28.89
+Country_161,Americas,North America,Capital_161,2610000,90500,28.84
+Country_162,Asia,Southeast Asia,Capital_162,2620000,91000,28.79
+Country_163,Africa,Eastern Africa,Capital_163,2630000,91500,28.74
+Country_164,Oceania,Australia and New Zealand,Capital_164,2640000,92000,28.7
+Country_165,Europe,Eastern Europe,Capital_165,2650000,92500,28.65
+Country_166,Americas,Central America,Capital_166,2660000,93000,28.6
+Country_167,Asia,Southeast Asia,Capital_167,2670000,93500,28.56
+Country_168,Africa,Eastern Africa,Capital_168,2680000,94000,28.51
+Country_169,Oceania,Melanesia,Capital_169,2690000,94500,28.47
+Country_170,Europe,Northern Europe,Capital_170,2700000,95000,28.42
+Country_171,Americas,Caribbean,Capital_171,2710000,95500,28.38
+Country_172,Asia,Southeast Asia,Capital_172,2720000,96000,28.33
+Country_173,Africa,Eastern Africa,Capital_173,2730000,96500,28.29
+Country_174,Oceania,Micronesia,Capital_174,2740000,97000,28.25
+Country_175,Europe,Southern Europe,Capital_175,2750000,97500,28.21
+Country_176,Americas,South America,Capital_176,2760000,98000,28.16
+Country_177,Asia,Southeast Asia,Capital_177,2770000,98500,28.12
+Country_178,Africa,Eastern Africa,Capital_178,2780000,99000,28.08
+Country_179,Oceania,Polynesia,Capital_179,2790000,99500,28.04
+Country_180,Europe,Western Europe,Capital_180,2800000,100000,28.0
+Country_181,Americas,North America,Capital_181,2810000,100500,27.96
+Country_182,Asia,Southeast Asia,Capital_182,2820000,101000,27.92
+Country_183,Africa,Eastern Africa,Capital_183,2830000,101500,27.88
+Country_184,Oceania,Australia and New Zealand,Capital_184,2840000,102000,27.84
+Country_185,Europe,Eastern Europe,Capital_185,2850000,102500,27.8
+Country_186,Americas,Central America,Capital_186,2860000,103000,27.77
+Country_187,Asia,Southeast Asia,Capital_187,2870000,103500,27.73
+Country_188,Africa,Eastern Africa,Capital_188,2880000,104000,27.69
+Country_189,Oceania,Melanesia,Capital_189,2890000,104500,27.66
+Country_190,Europe,Northern Europe,Capital_190,2900000,105000,27.62
+Country_191,Americas,Caribbean,Capital_191,2910000,105500,27.58
+Country_192,Asia,Southeast Asia,Capital_192,2920000,106000,27.55
+Country_193,Africa,Eastern Africa,Capital_193,2930000,106500,27.51
+Country_194,Oceania,Micronesia,Capital_194,2940000,107000,27.48
+Country_195,Europe,Southern Europe,Capital_195,2950000,107500,27.44
+Country_196,Americas,South America,Capital_196,2960000,108000,27.41
+Country_197,Asia,Southeast Asia,Capital_197,2970000,108500,27.37
+Country_198,Africa,Eastern Africa,Capital_198,2980000,109000,27.34
+Country_199,Oceania,Polynesia,Capital_199,2990000,109500,27.31
+Country_200,Europe,Western Europe,Capital_200,3000000,110000,27.27
+Country_201,Americas,North America,Capital_201,3010000,110500,27.24
+Country_202,Asia,Southeast Asia,Capital_202,3020000,111000,27.21
+Country_203,Africa,Eastern Africa,Capital_203,3030000,111500,27.17
+Country_204,Oceania,Australia and New Zealand,Capital_204,3040000,112000,27.14
+Country_205,Europe,Eastern Europe,Capital_205,3050000,112500,27.11
+Country_206,Americas,Central America,Capital_206,3060000,113000,27.08
+Country_207,Asia,Southeast Asia,Capital_207,3070000,113500,27.05
+Country_208,Africa,Eastern Africa,Capital_208,3080000,114000,27.02
+Country_209,Oceania,Melanesia,Capital_209,3090000,114500,26.99
+Country_210,Europe,Northern Europe,Capital_210,3100000,115000,26.96
+Country_211,Americas,Caribbean,Capital_211,3110000,115500,26.93
+Country_212,Asia,Southeast Asia,Capital_212,3120000,116000,26.9
+Country_213,Africa,Eastern Africa,Capital_213,3130000,116500,26.87
+Country_214,Oceania,Micronesia,Capital_214,3140000,117000,26.84
+Country_215,Europe,Southern Europe,Capital_215,3150000,117500,26.81
+Country_216,Americas,South America,Capital_216,3160000,118000,26.78
+Country_217,Asia,Southeast Asia,Capital_217,3170000,118500,26.75
+Country_218,Africa,Eastern Africa,Capital_218,3180000,119000,26.72
+Country_219,Oceania,Polynesia,Capital_219,3190000,119500,26.69
+Country_220,Europe,Western Europe,Capital_220,3200000,120000,26.67
+Country_221,Americas,North America,Capital_221,3210000,120500,26.64
+Country_222,Asia,Southeast Asia,Capital_222,3220000,121000,26.61
+Country_223,Africa,Eastern Africa,Capital_223,3230000,121500,26.58
+Country_224,Oceania,Australia and New Zealand,Capital_224,3240000,122000,26.56
+Country_225,Europe,Eastern Europe,Capital_225,3250000,122500,26.53
+Country_226,Americas,Central America,Capital_226,3260000,123000,26.5
+Country_227,Asia,Southeast Asia,Capital_227,3270000,123500,26.48
+Country_228,Africa,Eastern Africa,Capital_228,3280000,124000,26.45
+Country_229,Oceania,Melanesia,Capital_229,3290000,124500,26.43
+Country_230,Europe,Northern Europe,Capital_230,3300000,125000,26.4
+Country_231,Americas,Caribbean,Capital_231,3310000,125500,26.37
+Country_232,Asia,Southeast Asia,Capital_232,3320000,126000,26.35
+Country_233,Africa,Eastern Africa,Capital_233,3330000,126500,26.32
+Country_234,Oceania,Micronesia,Capital_234,3340000,127000,26.3
+Country_235,Europe,Southern Europe,Capital_235,3350000,127500,26.27
+Country_236,Americas,South America,Capital_236,3360000,128000,26.25
+Country_237,Asia,Southeast Asia,Capital_237,3370000,128500,26.23
+Country_238,Africa,Eastern Africa,Capital_238,3380000,129000,26.2
+Country_239,Oceania,Polynesia,Capital_239,3390000,129500,26.18
+Country_240,Europe,Western Europe,Capital_240,3400000,130000,26.15
+Country_241,Americas,North America,Capital_241,3410000,130500,26.13
+Country_242,Asia,Southeast Asia,Capital_242,3420000,131000,26.11
+Country_243,Africa,Eastern Africa,Capital_243,3430000,131500,26.08
+Country_244,Oceania,Australia and New Zealand,Capital_244,3440000,132000,26.06
+Country_245,Europe,Eastern Europe,Capital_245,3450000,132500,26.04
+Country_246,Americas,Central America,Capital_246,3460000,133000,26.02
+Country_247,Asia,Southeast Asia,Capital_247,3470000,133500,25.99
+Country_248,Africa,Eastern Africa,Capital_248,3480000,134000,25.97
+Country_249,Oceania,Melanesia,Capital_249,3490000,134500,25.95
+Country_250,Europe,Northern Europe,Capital_250,3500000,135000,25.93
+Country_251,Americas,Caribbean,Capital_251,3510000,135500,25.9
+Country_252,Asia,Southeast Asia,Capital_252,3520000,136000,25.88
+Country_253,Africa,Eastern Africa,Capital_253,3530000,136500,25.86
+Country_254,Oceania,Micronesia,Capital_254,3540000,137000,25.84
+Country_255,Europe,Southern Europe,Capital_255,3550000,137500,25.82
+Country_256,Americas,South America,Capital_256,3560000,138000,25.8
+Country_257,Asia,Southeast Asia,Capital_257,3570000,138500,25.78
+Country_258,Africa,Eastern Africa,Capital_258,3580000,139000,25.76
+Country_259,Oceania,Polynesia,Capital_259,3590000,139500,25.73
+Country_260,Europe,Western Europe,Capital_260,3600000,140000,25.71
+Country_261,Americas,North America,Capital_261,3610000,140500,25.69
+Country_262,Asia,Southeast Asia,Capital_262,3620000,141000,25.67
+Country_263,Africa,Eastern Africa,Capital_263,3630000,141500,25.65
+Country_264,Oceania,Australia and New Zealand,Capital_264,3640000,142000,25.63
+Country_265,Europe,Eastern Europe,Capital_265,3650000,142500,25.61
+Country_266,Americas,Central America,Capital_266,3660000,143000,25.59
+Country_267,Asia,Southeast Asia,Capital_267,3670000,143500,25.57
+Country_268,Africa,Eastern Africa,Capital_268,3680000,144000,25.56
+Country_269,Oceania,Melanesia,Capital_269,3690000,144500,25.54
+Country_270,Europe,Northern Europe,Capital_270,3700000,145000,25.52
+Country_271,Americas,Caribbean,Capital_271,3710000,145500,25.5
+Country_272,Asia,Southeast Asia,Capital_272,3720000,146000,25.48
+Country_273,Africa,Eastern Africa,Capital_273,3730000,146500,25.46
+Country_274,Oceania,Micronesia,Capital_274,3740000,147000,25.44
+Country_275,Europe,Southern Europe,Capital_275,3750000,147500,25.42
+Country_276,Americas,South America,Capital_276,3760000,148000,25.41
+Country_277,Asia,Southeast Asia,Capital_277,3770000,148500,25.39
+Country_278,Africa,Eastern Africa,Capital_278,3780000,149000,25.37
+Country_279,Oceania,Polynesia,Capital_279,3790000,149500,25.35
+Country_280,Europe,Western Europe,Capital_280,3800000,150000,25.33
+Country_281,Americas,North America,Capital_281,3810000,150500,25.32
+Country_282,Asia,Southeast Asia,Capital_282,3820000,151000,25.3
+Country_283,Africa,Eastern Africa,Capital_283,3830000,151500,25.28
+Country_284,Oceania,Australia and New Zealand,Capital_284,3840000,152000,25.26
+Country_285,Europe,Eastern Europe,Capital_285,3850000,152500,25.25
+Country_286,Americas,Central America,Capital_286,3860000,153000,25.23
+Country_287,Asia,Southeast Asia,Capital_287,3870000,153500,25.21
+Country_288,Africa,Eastern Africa,Capital_288,3880000,154000,25.19
+Country_289,Oceania,Melanesia,Capital_289,3890000,154500,25.18
+Country_290,Europe,Northern Europe,Capital_290,3900000,155000,25.16
+Country_291,Americas,Caribbean,Capital_291,3910000,155500,25.14
+Country_292,Asia,Southeast Asia,Capital_292,3920000,156000,25.13
+Country_293,Africa,Eastern Africa,Capital_293,3930000,156500,25.11
+Country_294,Oceania,Micronesia,Capital_294,3940000,157000,25.1
+Country_295,Europe,Southern Europe,Capital_295,3950000,157500,25.08
+Country_296,Americas,South America,Capital_296,3960000,158000,25.06
+Country_297,Asia,Southeast Asia,Capital_297,3970000,158500,25.05
+Country_298,Africa,Eastern Africa,Capital_298,3980000,159000,25.03
+Country_299,Oceania,Polynesia,Capital_299,3990000,159500,25.02
+Country_300,Europe,Western Europe,Capital_300,4000000,160000,25.0
+Country_301,Americas,North America,Capital_301,4010000,160500,24.98
+Country_302,Asia,Southeast Asia,Capital_302,4020000,161000,24.97
+Country_303,Africa,Eastern Africa,Capital_303,4030000,161500,24.95
+Country_304,Oceania,Australia and New Zealand,Capital_304,4040000,162000,24.94
+Country_305,Europe,Eastern Europe,Capital_305,4050000,162500,24.92
+Country_306,Americas,Central America,Capital_306,4060000,163000,24.91
+Country_307,Asia,Southeast Asia,Capital_307,4070000,163500,24.89
+Country_308,Africa,Eastern Africa,Capital_308,4080000,164000,24.88
+Country_309,Oceania,Melanesia,Capital_309,4090000,164500,24.86
+Country_310,Europe,Northern Europe,Capital_310,4100000,165000,24.85
+Country_311,Americas,Caribbean,Capital_311,4110000,165500,24.83
+Country_312,Asia,Southeast Asia,Capital_312,4120000,166000,24.82
+Country_313,Africa,Eastern Africa,Capital_313,4130000,166500,24.8
+Country_314,Oceania,Micronesia,Capital_314,4140000,167000,24.79
+Country_315,Europe,Southern Europe,Capital_315,4150000,167500,24.78
+Country_316,Americas,South America,Capital_316,4160000,168000,24.76
+Country_317,Asia,Southeast Asia,Capital_317,4170000,168500,24.75
+Country_318,Africa,Eastern Africa,Capital_318,4180000,169000,24.73
+Country_319,Oceania,Polynesia,Capital_319,4190000,169500,24.72
+Country_320,Europe,Western Europe,Capital_320,4200000,170000,24.71
+Country_321,Americas,North America,Capital_321,4210000,170500,24.69
+Country_322,Asia,Southeast Asia,Capital_322,4220000,171000,24.68
+Country_323,Africa,Eastern Africa,Capital_323,4230000,171500,24.66
+Country_324,Oceania,Australia and New Zealand,Capital_324,4240000,172000,24.65
+Country_325,Europe,Eastern Europe,Capital_325,4250000,172500,24.64
+Country_326,Americas,Central America,Capital_326,4260000,173000,24.62
+Country_327,Asia,Southeast Asia,Capital_327,4270000,173500,24.61
+Country_328,Africa,Eastern Africa,Capital_328,4280000,174000,24.6
+Country_329,Oceania,Melanesia,Capital_329,4290000,174500,24.58
+Country_330,Europe,Northern Europe,Capital_330,4300000,175000,24.57
+Country_331,Americas,Caribbean,Capital_331,4310000,175500,24.56
+Country_332,Asia,Southeast Asia,Capital_332,4320000,176000,24.55
+Country_333,Africa,Eastern Africa,Capital_333,4330000,176500,24.53
+Country_334,Oceania,Micronesia,Capital_334,4340000,177000,24.52
+Country_335,Europe,Southern Europe,Capital_335,4350000,177500,24.51
+Country_336,Americas,South America,Capital_336,4360000,178000,24.49
+Country_337,Asia,Southeast Asia,Capital_337,4370000,178500,24.48
+Country_338,Africa,Eastern Africa,Capital_338,4380000,179000,24.47
+Country_339,Oceania,Polynesia,Capital_339,4390000,179500,24.46
+Country_340,Europe,Western Europe,Capital_340,4400000,180000,24.44
+Country_341,Americas,North America,Capital_341,4410000,180500,24.43
+Country_342,Asia,Southeast Asia,Capital_342,4420000,181000,24.42
+Country_343,Africa,Eastern Africa,Capital_343,4430000,181500,24.41
+Country_344,Oceania,Australia and New Zealand,Capital_344,4440000,182000,24.4
+Country_345,Europe,Eastern Europe,Capital_345,4450000,182500,24.38
+Country_346,Americas,Central America,Capital_346,4460000,183000,24.37
+Country_347,Asia,Southeast Asia,Capital_347,4470000,183500,24.36
+Country_348,Africa,Eastern Africa,Capital_348,4480000,184000,24.35
+Country_349,Oceania,Melanesia,Capital_349,4490000,184500,24.34
+Country_350,Europe,Northern Europe,Capital_350,4500000,185000,24.32
+Country_351,Americas,Caribbean,Capital_351,4510000,185500,24.31
+Country_352,Asia,Southeast Asia,Capital_352,4520000,186000,24.3
+Country_353,Africa,Eastern Africa,Capital_353,4530000,186500,24.29
+Country_354,Oceania,Micronesia,Capital_354,4540000,187000,24.28
+Country_355,Europe,Southern Europe,Capital_355,4550000,187500,24.27
+Country_356,Americas,South America,Capital_356,4560000,188000,24.26
+Country_357,Asia,Southeast Asia,Capital_357,4570000,188500,24.24
+Country_358,Africa,Eastern Africa,Capital_358,4580000,189000,24.23
+Country_359,Oceania,Polynesia,Capital_359,4590000,189500,24.22
+Country_360,Europe,Western Europe,Capital_360,4600000,190000,24.21
+Country_361,Americas,North America,Capital_361,4610000,190500,24.2
+Country_362,Asia,Southeast Asia,Capital_362,4620000,191000,24.19
+Country_363,Africa,Eastern Africa,Capital_363,4630000,191500,24.18
+Country_364,Oceania,Australia and New Zealand,Capital_364,4640000,192000,24.17
+Country_365,Europe,Eastern Europe,Capital_365,4650000,192500,24.16
+Country_366,Americas,Central America,Capital_366,4660000,193000,24.15
+Country_367,Asia,Southeast Asia,Capital_367,4670000,193500,24.13
+Country_368,Africa,Eastern Africa,Capital_368,4680000,194000,24.12
+Country_369,Oceania,Melanesia,Capital_369,4690000,194500,24.11
+Country_370,Europe,Northern Europe,Capital_370,4700000,195000,24.1
+Country_371,Americas,Caribbean,Capital_371,4710000,195500,24.09
+Country_372,Asia,Southeast Asia,Capital_372,4720000,196000,24.08
+Country_373,Africa,Eastern Africa,Capital_373,4730000,196500,24.07
+Country_374,Oceania,Micronesia,Capital_374,4740000,197000,24.06
+Country_375,Europe,Southern Europe,Capital_375,4750000,197500,24.05
+Country_376,Americas,South America,Capital_376,4760000,198000,24.04
+Country_377,Asia,Southeast Asia,Capital_377,4770000,198500,24.03
+Country_378,Africa,Eastern Africa,Capital_378,4780000,199000,24.02
+Country_379,Oceania,Polynesia,Capital_379,4790000,199500,24.01
+Country_380,Europe,Western Europe,Capital_380,4800000,200000,24.0
+Country_381,Americas,North America,Capital_381,4810000,200500,23.99
+Country_382,Asia,Southeast Asia,Capital_382,4820000,201000,23.98
+Country_383,Africa,Eastern Africa,Capital_383,4830000,201500,23.97
+Country_384,Oceania,Australia and New Zealand,Capital_384,4840000,202000,23.96
+Country_385,Europe,Eastern Europe,Capital_385,4850000,202500,23.95
+Country_386,Americas,Central America,Capital_386,4860000,203000,23.94
+Country_387,Asia,Southeast Asia,Capital_387,4870000,203500,23.93
+Country_388,Africa,Eastern Africa,Capital_388,4880000,204000,23.92
+Country_389,Oceania,Melanesia,Capital_389,4890000,204500,23.91
+Country_390,Europe,Northern Europe,Capital_390,4900000,205000,23.9
+Country_391,Americas,Caribbean,Capital_391,4910000,205500,23.89
+Country_392,Asia,Southeast Asia,Capital_392,4920000,206000,23.88
+Country_393,Africa,Eastern Africa,Capital_393,4930000,206500,23.87
+Country_394,Oceania,Micronesia,Capital_394,4940000,207000,23.86
+Country_395,Europe,Southern Europe,Capital_395,4950000,207500,23.86
+Country_396,Americas,South America,Capital_396,4960000,208000,23.85
+Country_397,Asia,Southeast Asia,Capital_397,4970000,208500,23.84
+Country_398,Africa,Eastern Africa,Capital_398,4980000,209000,23.83
+Country_399,Oceania,Polynesia,Capital_399,4990000,209500,23.82
+Country_400,Europe,Western Europe,Capital_400,5000000,210000,23.81
+Country_401,Americas,North America,Capital_401,5010000,210500,23.8
+Country_402,Asia,Southeast Asia,Capital_402,5020000,211000,23.79
+Country_403,Africa,Eastern Africa,Capital_403,5030000,211500,23.78
+Country_404,Oceania,Australia and New Zealand,Capital_404,5040000,212000,23.77
+Country_405,Europe,Eastern Europe,Capital_405,5050000,212500,23.76
+Country_406,Americas,Central America,Capital_406,5060000,213000,23.76
+Country_407,Asia,Southeast Asia,Capital_407,5070000,213500,23.75
+Country_408,Africa,Eastern Africa,Capital_408,5080000,214000,23.74
+Country_409,Oceania,Melanesia,Capital_409,5090000,214500,23.73
+Country_410,Europe,Northern Europe,Capital_410,5100000,215000,23.72
+Country_411,Americas,Caribbean,Capital_411,5110000,215500,23.71
+Country_412,Asia,Southeast Asia,Capital_412,5120000,216000,23.7
+Country_413,Africa,Eastern Africa,Capital_413,5130000,216500,23.7
+Country_414,Oceania,Micronesia,Capital_414,5140000,217000,23.69
+Country_415,Europe,Southern Europe,Capital_415,5150000,217500,23.68
+Country_416,Americas,South America,Capital_416,5160000,218000,23.67
+Country_417,Asia,Southeast Asia,Capital_417,5170000,218500,23.66
+Country_418,Africa,Eastern Africa,Capital_418,5180000,219000,23.65
+Country_419,Oceania,Polynesia,Capital_419,5190000,219500,23.64
+Country_420,Europe,Western Europe,Capital_420,5200000,220000,23.64
+Country_421,Americas,North America,Capital_421,5210000,220500,23.63
+Country_422,Asia,Southeast Asia,Capital_422,5220000,221000,23.62
+Country_423,Africa,Eastern Africa,Capital_423,5230000,221500,23.61
+Country_424,Oceania,Australia and New Zealand,Capital_424,5240000,222000,23.6
+Country_425,Europe,Eastern Europe,Capital_425,5250000,222500,23.6
+Country_426,Americas,Central America,Capital_426,5260000,223000,23.59
+Country_427,Asia,Southeast Asia,Capital_427,5270000,223500,23.58
+Country_428,Africa,Eastern Africa,Capital_428,5280000,224000,23.57
+Country_429,Oceania,Melanesia,Capital_429,5290000,224500,23.56
+Country_430,Europe,Northern Europe,Capital_430,5300000,225000,23.56
+Country_431,Americas,Caribbean,Capital_431,5310000,225500,23.55
+Country_432,Asia,Southeast Asia,Capital_432,5320000,226000,23.54
+Country_433,Africa,Eastern Africa,Capital_433,5330000,226500,23.53
+Country_434,Oceania,Micronesia,Capital_434,5340000,227000,23.52
+Country_435,Europe,Southern Europe,Capital_435,5350000,227500,23.52
+Country_436,Americas,South America,Capital_436,5360000,228000,23.51
+Country_437,Asia,Southeast Asia,Capital_437,5370000,228500,23.5
+Country_438,Africa,Eastern Africa,Capital_438,5380000,229000,23.49
+Country_439,Oceania,Polynesia,Capital_439,5390000,229500,23.49
+Country_440,Europe,Western Europe,Capital_440,5400000,230000,23.48
+Country_441,Americas,North America,Capital_441,5410000,230500,23.47
+Country_442,Asia,Southeast Asia,Capital_442,5420000,231000,23.46
+Country_443,Africa,Eastern Africa,Capital_443,5430000,231500,23.46
+Country_444,Oceania,Australia and New Zealand,Capital_444,5440000,232000,23.45
+Country_445,Europe,Eastern Europe,Capital_445,5450000,232500,23.44
+Country_446,Americas,Central America,Capital_446,5460000,233000,23.43
+Country_447,Asia,Southeast Asia,Capital_447,5470000,233500,23.43
+Country_448,Africa,Eastern Africa,Capital_448,5480000,234000,23.42
+Country_449,Oceania,Melanesia,Capital_449,5490000,234500,23.41
+Country_450,Europe,Northern Europe,Capital_450,5500000,235000,23.4
+Country_451,Americas,Caribbean,Capital_451,5510000,235500,23.4
+Country_452,Asia,Southeast Asia,Capital_452,5520000,236000,23.39
+Country_453,Africa,Eastern Africa,Capital_453,5530000,236500,23.38
+Country_454,Oceania,Micronesia,Capital_454,5540000,237000,23.38
+Country_455,Europe,Southern Europe,Capital_455,5550000,237500,23.37
+Country_456,Americas,South America,Capital_456,5560000,238000,23.36
+Country_457,Asia,Southeast Asia,Capital_457,5570000,238500,23.35
+Country_458,Africa,Eastern Africa,Capital_458,5580000,239000,23.35
+Country_459,Oceania,Polynesia,Capital_459,5590000,239500,23.34
+Country_460,Europe,Western Europe,Capital_460,5600000,240000,23.33
+Country_461,Americas,North America,Capital_461,5610000,240500,23.33
+Country_462,Asia,Southeast Asia,Capital_462,5620000,241000,23.32
+Country_463,Africa,Eastern Africa,Capital_463,5630000,241500,23.31
+Country_464,Oceania,Australia and New Zealand,Capital_464,5640000,242000,23.31
+Country_465,Europe,Eastern Europe,Capital_465,5650000,242500,23.3
+Country_466,Americas,Central America,Capital_466,5660000,243000,23.29
+Country_467,Asia,Southeast Asia,Capital_467,5670000,243500,23.29
+Country_468,Africa,Eastern Africa,Capital_468,5680000,244000,23.28
+Country_469,Oceania,Melanesia,Capital_469,5690000,244500,23.27
+Country_470,Europe,Northern Europe,Capital_470,5700000,245000,23.27
+Country_471,Americas,Caribbean,Capital_471,5710000,245500,23.26
+Country_472,Asia,Southeast Asia,Capital_472,5720000,246000,23.25
+Country_473,Africa,Eastern Africa,Capital_473,5730000,246500,23.25
+Country_474,Oceania,Micronesia,Capital_474,5740000,247000,23.24
+Country_475,Europe,Southern Europe,Capital_475,5750000,247500,23.23
+Country_476,Americas,South America,Capital_476,5760000,248000,23.23
+Country_477,Asia,Southeast Asia,Capital_477,5770000,248500,23.22
+Country_478,Africa,Eastern Africa,Capital_478,5780000,249000,23.21
+Country_479,Oceania,Polynesia,Capital_479,5790000,249500,23.21
+Country_480,Europe,Western Europe,Capital_480,5800000,250000,23.2
+Country_481,Americas,North America,Capital_481,5810000,250500,23.19
+Country_482,Asia,Southeast Asia,Capital_482,5820000,251000,23.19
+Country_483,Africa,Eastern Africa,Capital_483,5830000,251500,23.18
+Country_484,Oceania,Australia and New Zealand,Capital_484,5840000,252000,23.17
+Country_485,Europe,Eastern Europe,Capital_485,5850000,252500,23.17
+Country_486,Americas,Central America,Capital_486,5860000,253000,23.16
+Country_487,Asia,Southeast Asia,Capital_487,5870000,253500,23.16
+Country_488,Africa,Eastern Africa,Capital_488,5880000,254000,23.15
+Country_489,Oceania,Melanesia,Capital_489,5890000,254500,23.14
+Country_490,Europe,Northern Europe,Capital_490,5900000,255000,23.14
+Country_491,Americas,Caribbean,Capital_491,5910000,255500,23.13
+Country_492,Asia,Southeast Asia,Capital_492,5920000,256000,23.12
+Country_493,Africa,Eastern Africa,Capital_493,5930000,256500,23.12
+Country_494,Oceania,Micronesia,Capital_494,5940000,257000,23.11
+Country_495,Europe,Southern Europe,Capital_495,5950000,257500,23.11
+Country_496,Americas,South America,Capital_496,5960000,258000,23.1
+Country_497,Asia,Southeast Asia,Capital_497,5970000,258500,23.09
+Country_498,Africa,Eastern Africa,Capital_498,5980000,259000,23.09
+Country_499,Oceania,Polynesia,Capital_499,5990000,259500,23.08
